@@ -1,0 +1,14 @@
+---
+targets:
+- nameserver: 1.1.1.1
+  name: google.com
+  recordtype: NS
+- nameserver: 1.1.1.1
+  name: google.com
+  recordtype: A
+- nameserver: 8.8.8.8
+  name: google.com
+  recordtype: NS
+- nameserver: 8.8.8.8
+  name: google.com
+  recordtype: A
